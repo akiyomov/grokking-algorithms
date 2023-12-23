@@ -1,6 +1,3 @@
-#!/bin/bash
-
-cat <<EOF > README.md
 # Grokking Algorithms Repository 🧠💻
 
 Welcome to my Grokking Algorithms repository! This repository contains various algorithms implemented in different programming languages as I learn and practice them using the concepts from the book "Grokking Algorithms" by Aditya Bhargava.
@@ -33,5 +30,3 @@ Contributions are welcome! If you find any issues, errors, or wish to add new al
 ### License 📝
 
 This repository is licensed under the [MIT License](LICENSE). Feel free to use the code for educational purposes.
-
-
